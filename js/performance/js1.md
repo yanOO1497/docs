@@ -1,9 +1,9 @@
+# js性能优化注意事项
 ### 原生js部分
 参考文章
 - [js性能优化的小知识](https://www.cnblogs.com/liyunhua/p/4529086.html)
 - [javascript性能优化技巧](https://segmentfault.com/a/1190000008273435)
 - [JavaScript性能优化之小知识总结](http://www.jb51.net/article/75186.htm)
-- 
 
 #### DOM编程
 ##### 建议将对象进行缓存处理，特别是DOM访问是比较消耗资源的
