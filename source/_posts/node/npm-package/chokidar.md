@@ -1,3 +1,7 @@
+---
+title: chokidar API
+tags: docs, npm
+---
 github地址：https://github.com/paulmillr/chokidar
 
 # chokidar API
